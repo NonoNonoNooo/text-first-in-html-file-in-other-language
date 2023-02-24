@@ -1,0 +1,12 @@
+Hello
+I wrote a program that translates all text in html file from one language to the second 
+The reason I decided to write this code is because I was asked to do one of the jobs I applied for 
+there was to download the site and translate it into another language in html but there was a need to translate the help of a translator or your own methods and I decided to make my method
+pros 
+- Translates text automatically
+minuses
+- it’s quite slow 
+- sometimes when I tested different html files the program deleted css that was written in html code  
+- she can’t translate absolutely everything because I’ve learned that not all words are translated
+
+
